@@ -191,7 +191,7 @@ Figure 3. Model validation between modelled result and observed result in 2019
 
  
 
-![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image18.png)
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image19.png)
 
 
 
