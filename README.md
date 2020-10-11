@@ -1,6 +1,3 @@
-# Mathematical Model To Evaluate Impact Of Weather and Temperature On Traffic_Accidents
-
-
 **Step 1: Identifying the Problem/ Problem Statement**
 
 Studies have been done prior to determine the correlation between weather and vehicular accidents. Ultimately, there is a correlation between low temperatures and vehicle accidents (Andreescu, 1997).  There are many factors which contribute to this correlation. Take for example, a less noticeable factor such as a driver’s psyche. Drivers often report a change of behaviour such as a decrease in speed (Summala, 2006), which in turn affects the flow of traffic and can lead to more accidents.However, such factors cannot be accurately determined, and thus, the relation between accidents and weather should be looked at directly. One such method is to directly relate the precipitation/temperature to the number of accidents that have occured (Andreescu, 1997), and then determine the accuracy of the results. However, this method struggles in accurately determining the trend of weather correlated accidents in the future. 
