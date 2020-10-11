@@ -34,9 +34,9 @@ The first step in developing the computational model was to assess the impact th
 
 
 
-https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image1.png
 
-							(1)
+
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image1.png)		(1)
 
 Where:
 
