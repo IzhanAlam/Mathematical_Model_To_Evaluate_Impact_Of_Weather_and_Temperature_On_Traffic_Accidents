@@ -42,47 +42,44 @@ Where:
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image2.png)
 
  = Accident risk for precipitation type
 
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image3.png)
 
  = Number of accidents per type of precipitation (t) and month (m)
 
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image4.png)
 
  = Number of hours in that month
 
 
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image5.png)
 
  = Number of accidents in a month
 
 
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image6.png)
 = Number of hours with that type of precipitation in the month
 
 
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image7.png)
 
  = Number of months
 
 The first step in applying this risk assessment was to determine the number of accidents on a particular date, as well as the weather conditions. The monthly number of accidents in clear weather, in snow, and in rain were sorted from the dataset which yielded the value of 
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image8.png). 
+The hours of precipitation per month were not available from the chosen database. To accommodate for this, we used the total rain/snow precipitation and divided by the average rain/snow precipitation which falls in an hour. This allowed us to get approximate values for the hours of precipitation per month(
 
-. The hours of precipitation per month were not available from the chosen database. To accommodate for this, we used the total rain/snow precipitation and divided by the average rain/snow precipitation which falls in an hour. This allowed us to get approximate values for the hours of precipitation per month(
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image8.png)
 
 ). We calculated this risk assessment for the years of 2017 and 2018. 
 
@@ -92,13 +89,11 @@ The next step was to incorporate the accident risk with the temperature to ensur
 
 
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-				(2)
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image9.png)	(2)
 
 Once the precipitation type and the number of accidents were linked, we then linked the temperature and the number of accidents. This was done in a relatively simple manner. We simply modelled the number of adjusted accidents which occured between a temperature range such as 
 
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image10.png)
 
 . The trend line was then found for this model for the years of 2017 and 2018. Note that most of the positive temperatures were intentionally left out as the traffic data for the year of 2019 was missing accidents which occurred during the summer months.
 
@@ -108,21 +103,15 @@ Lastly, to find the probability of an accident  associated with a temperature bi
 
 
 
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-		(3)
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image11.png)		(3)
 
 
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-				(4)
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image12.png)		(4)
 
 
 
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-				(5)
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image13.png)		(5)
 
 **Step 4: Evaluation of the Model**:
 
@@ -134,11 +123,9 @@ Model Validation:
 
 The evaluation of the model was conducted in terms of a predictive validation. That is, it examines the ability to forecast an issue of interest.  The model used empirical relations generated from 2017 and 2018 traffic accidents and their corresponding weather conditions to predict the number of traffic accidents that happened in 2019. The accuracy of the prediction was evaluated as a statistical/quantitative approach, specifically, the coefficient of determination, 
 
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image14.png). This value varies between 0 and 1, which indicates whether none of the data variance is captured, or all of it is, respectively. The coefficient of determination is highly sensitive to outliers as they are far from the mean. During the model evaluation, we removed outliers that were greater than 
 
-. This value varies between 0 and 1, which indicates whether none of the data variance is captured, or all of it is, respectively. The coefficient of determination is highly sensitive to outliers as they are far from the mean. During the model evaluation, we removed outliers that were greater than 
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image15.png)
 
 .. As a rule of thumbs, if  a value can capture 62.5% of the variance, or higher, it  can be considered as a reasonably good fit in a biological system (Hassan, 2018). Before comparing the predicted value with the observed values, the accident risk under different weather conditions were calculated as described in equation 1. As Table 1 illustrates, the risk index for traffic accidents under different weather conditions were calculated based on 2017 and 2018 data respectively. It was computed yearly because the weather conditions over the two years are different.
 
@@ -183,20 +170,19 @@ As mentioned in the computational method section, the environmental condition wa
 
  
 
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image16.png)
 
 
-![alt_text](images/image2.png "image_tooltip")
+
 
 
 Figure 1. correlation between number of accidents happened and the minimum surface temperature measured for 2017
 
  
 
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image17.png)
 
 
-![alt_text](images/image3.png "image_tooltip")
 
 
 Figure 2. correlation between number of accidents happened and the minimum surface temperature measured for 2018
@@ -214,7 +200,7 @@ For sensitivity analysis, the Pearson’s Correlation Coefficient was determined
 <p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image18.png)
 
 
 Figure 3. Model validation between modelled result and observed result in 2019
@@ -226,7 +212,7 @@ Figure 3. Model validation between modelled result and observed result in 2019
 <p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image5.png "image_tooltip")
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image19.png)
 
 
 Figure 4. The ratio of accidents occurring at a temperature (r2 = 0.6)
