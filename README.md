@@ -34,7 +34,7 @@ The first step in developing the computational model was to assess the impact th
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image1.png
 
 							(1)
 
