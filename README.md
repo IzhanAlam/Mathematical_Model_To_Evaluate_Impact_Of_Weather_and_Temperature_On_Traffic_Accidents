@@ -56,12 +56,11 @@ Where:
 
 ![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image7.png) = Number of months
 
-The first step in applying this risk assessment was to determine the number of accidents on a particular date, as well as the weather conditions. The monthly number of accidents in clear weather, in snow, and in rain were sorted from the dataset which yielded the value of 
+The first step in applying this risk assessment was to determine the number of accidents on a particular date, as well as the weather conditions. The monthly number of accidents in clear weather, in snow, and in rain were sorted from the dataset which yielded the value of ![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image3.png) . 
 
-![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image8.png). 
 The hours of precipitation per month were not available from the chosen database. To accommodate for this, we used the total rain/snow precipitation and divided by the average rain/snow precipitation which falls in an hour. This allowed us to get approximate values for the hours of precipitation per month(
 
-![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image9.png)
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image6.png)
 
 ). We calculated this risk assessment for the years of 2017 and 2018. 
 
