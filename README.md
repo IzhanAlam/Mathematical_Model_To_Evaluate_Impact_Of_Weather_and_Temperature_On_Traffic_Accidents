@@ -79,7 +79,7 @@ The first step in applying this risk assessment was to determine the number of a
 ![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image8.png). 
 The hours of precipitation per month were not available from the chosen database. To accommodate for this, we used the total rain/snow precipitation and divided by the average rain/snow precipitation which falls in an hour. This allowed us to get approximate values for the hours of precipitation per month(
 
-![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image8.png)
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image9.png)
 
 ). We calculated this risk assessment for the years of 2017 and 2018. 
 
@@ -89,11 +89,11 @@ The next step was to incorporate the accident risk with the temperature to ensur
 
 
 
-![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image9.png)	(2)
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image10.png)	(2)
 
 Once the precipitation type and the number of accidents were linked, we then linked the temperature and the number of accidents. This was done in a relatively simple manner. We simply modelled the number of adjusted accidents which occured between a temperature range such as 
 
-![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image10.png)
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image11.png)
 
 . The trend line was then found for this model for the years of 2017 and 2018. Note that most of the positive temperatures were intentionally left out as the traffic data for the year of 2019 was missing accidents which occurred during the summer months.
 
@@ -103,15 +103,15 @@ Lastly, to find the probability of an accident  associated with a temperature bi
 
 
 
-![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image11.png)		(3)
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image12.png)		(3)
 
 
 
-![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image12.png)		(4)
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image13.png)		(4)
 
 
 
-![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image13.png)		(5)
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image14.png)		(5)
 
 **Step 4: Evaluation of the Model**:
 
@@ -123,9 +123,9 @@ Model Validation:
 
 The evaluation of the model was conducted in terms of a predictive validation. That is, it examines the ability to forecast an issue of interest.  The model used empirical relations generated from 2017 and 2018 traffic accidents and their corresponding weather conditions to predict the number of traffic accidents that happened in 2019. The accuracy of the prediction was evaluated as a statistical/quantitative approach, specifically, the coefficient of determination, 
 
-![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image14.png). This value varies between 0 and 1, which indicates whether none of the data variance is captured, or all of it is, respectively. The coefficient of determination is highly sensitive to outliers as they are far from the mean. During the model evaluation, we removed outliers that were greater than 
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image15.png). This value varies between 0 and 1, which indicates whether none of the data variance is captured, or all of it is, respectively. The coefficient of determination is highly sensitive to outliers as they are far from the mean. During the model evaluation, we removed outliers that were greater than 
 
-![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image15.png)
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image16.png)
 
 .. As a rule of thumbs, if  a value can capture 62.5% of the variance, or higher, it  can be considered as a reasonably good fit in a biological system (Hassan, 2018). Before comparing the predicted value with the observed values, the accident risk under different weather conditions were calculated as described in equation 1. As Table 1 illustrates, the risk index for traffic accidents under different weather conditions were calculated based on 2017 and 2018 data respectively. It was computed yearly because the weather conditions over the two years are different.
 
@@ -170,7 +170,7 @@ As mentioned in the computational method section, the environmental condition wa
 
  
 
-![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image16.png)
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image17.png)
 
 
 
@@ -180,7 +180,7 @@ Figure 1. correlation between number of accidents happened and the minimum surfa
 
  
 
-![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image17.png)
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image18.png)
 
 
 
@@ -197,7 +197,8 @@ For sensitivity analysis, the Pearson’s Correlation Coefficient was determined
 
 
 
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image19.png)
+
 
 
 
@@ -209,10 +210,10 @@ Figure 3. Model validation between modelled result and observed result in 2019
 
  
 
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image20.png)
 
 
-![alt_text](https://github.com/IzhanAlam/Mathematical_Model_To_Evaluate_Impact_Of_Weather_and_Temperature_On_Traffic_Accidents/blob/main/images/image19.png)
+
 
 
 Figure 4. The ratio of accidents occurring at a temperature (r2 = 0.6)
